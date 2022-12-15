@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "inet.h": "c",
+        "dma.h": "c",
+        "ws2811.h": "c"
+    }
+}
